@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\eShop\resources\views/livewire/nav-all-categories-component.blade.php ENDPATH**/ ?>
